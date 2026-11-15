@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=GuionStudio
+Url=https://raw.githubusercontent.com/charlifry97/GuionStudio-flatpak/main/
+Homepage=https://github.com/charlifry97/GuionStudio
+Comment=Editor de guiones audiovisuales
+Icon=https://raw.githubusercontent.com/charlifry97/GuionStudio/main/data/icons/hicolor/scalable/apps/io.github.charlifry97.GuionStudio.svg
+GPGKey=
